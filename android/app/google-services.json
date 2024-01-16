@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744587418321",
+    "project_id": "connect-1229e",
+    "storage_bucket": "connect-1229e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744587418321:android:8be770d8366f20fef143f0",
+        "android_client_info": {
+          "package_name": "com.example.fire_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH548dyi1dH1m-7LdFUvAwRgPzjCNdnMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
